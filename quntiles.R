@@ -1,3 +1,5 @@
+#R code for the paper Junike, G. (2025). Precise quantile function estimation from the characteristic function. Statistics & Probability Letters, 222, 110395.
+
 library(Deriv)
 
 eps_global=0.005
